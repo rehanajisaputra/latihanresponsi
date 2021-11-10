@@ -1,1 +1,2 @@
 # latihanresponsi
+bab 2
